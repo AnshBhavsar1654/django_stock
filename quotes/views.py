@@ -1,3 +1,5 @@
+# Django
+
 from django.shortcuts import redirect, render
 from .models import Stock
 from .forms import StockForm
